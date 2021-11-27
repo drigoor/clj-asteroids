@@ -1,2 +1,2 @@
 # clj-asteroids
-Clojure Asteroids Clone
+Clojure Asteroids Clone (using Quil library)
